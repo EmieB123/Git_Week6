@@ -12,7 +12,7 @@
   - `cd myProject` - Change into project directory
   - `echo "<PROJECT_NAME>" >> outline.txt` - Add an outline file to your project containing the project's names
   - `ls -a` (or `ll` on Ubuntu) - Take a look at what's initially in the project directory
-  - `git init` - Initializes the repository
+  - `git init` - Initializes the repository WITHIN YOUR CURRENT DIRECTORY
   - Using `ls -a`, take another look at the project directory (now also a repository)
     - What's different?
     - Explore a bit with `cd` and `cat`
