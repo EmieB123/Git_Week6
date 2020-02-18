@@ -32,6 +32,7 @@ __The simplest Git workflow__ - The single line shows a workflow that uses only 
     - What is git keeping track of?
   - `git log` - See what commits have been made to this project
     - Since we haven't yet done anything with our repository, there is nothing yet to show in the log. First, we need to commit something.
+    - Not every file in the directory is included in the git repository - very usefule! - but remember to add relevant files to the repository when needed
 
 ![Git Stages](images/GitStages.png)
 
